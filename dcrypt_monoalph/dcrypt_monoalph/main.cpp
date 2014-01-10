@@ -113,4 +113,3 @@ int wordCount (istream& in)
  }
  return count;
  }
-       
